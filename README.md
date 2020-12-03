@@ -1,2 +1,2 @@
 # PowerShellScript
-Automated Script to pull the data from machines
+PowerShell Script to fetch the required data for IT Inventory needs 
